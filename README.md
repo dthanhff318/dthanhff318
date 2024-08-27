@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @dthanhff318
-- 👀 I’m interested in code and soccer
-- 🌱 I’m currently learning FE and BE
+- 👋 Hi am tizz
 
 <!---
 dthanhff318/dthanhff318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
