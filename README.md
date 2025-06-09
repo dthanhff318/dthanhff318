@@ -1,4 +1,4 @@
-- 👋 Hi am tizz
+- 👋 Hi am t1zz
 
 <!---
 dthanhff318/dthanhff318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
