@@ -1,7 +1,5 @@
 # Duy Thanh (t1zz)
 
-## 👋 About Me
-
 Hi, I'm **Duy Thanh** (also known as **t1zz**).
 
 - 🔭 Currently working at **???**  
