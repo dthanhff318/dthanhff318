@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Duy Thanh** (also known as **t1zz**). I'm a passionate **Web Developer** with experience in building modern, responsive, and user-friendly web applications.
+Hi, I'm **Duy Thanh** (also known as **t1zz**).
 
 - 🔭 Currently working at **???**  
 - 🌱 Always learning new technologies and improving my skills  
